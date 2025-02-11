@@ -250,7 +250,9 @@
       "safari-mobile":"Safari su dispositivi mobili",
       "cookie-policy-p11":"Per procedere alla disattivazione dei cookies di Google Analytics, è possibile installare il componente aggiuntivo scaricabile cliccando sul link sottostante:",
       "cookie-policy-p12":"link componente aggiuntivo disattivazione cookies Google Analytics",
-      "privacy-policy-contact-title1":"INFORMATIVA PRIVACY SITO INTERNET FORM “CONTATTACI” V.2.1 (ai sensi dell’art.13 del Regolamento UE n. 2016/679)"
+      "privacy-policy-contact-title1":"INFORMATIVA PRIVACY SITO INTERNET FORM “CONTATTACI” V.2.1 (ai sensi dell’art.13 del Regolamento UE n. 2016/679)",
+      "romina-home-news-title":"Adextra Italia punta su AdSentry e Scouty per un marketing digitale più sicuro e personalizzato",
+      "romina-home-news-paragraph":"AdSentry garantisce che le campagne pubblicitarie siano safe e pertinenti, Scouty permette..."
       
 
     },
@@ -506,7 +508,9 @@
       "safari-fisso":"Safari on fixed devices",
       "safari-mobile":"Safari on mobile devices",
       "cookie-policy-p11":"To disable the cookies of Google Analytics, you can install the downloadable add-on by clicking on the link below:",
-      "cookie-policy-p12":"link add-on deactivation cookies Google Analytics"
+      "cookie-policy-p12":"link add-on deactivation cookies Google Analytics",
+      "romina-home-news-title":"Adextra Italia uses AdSentry and Scouty for more secure and personalised digital marketing",
+      "romina-home-news-paragraph":"AdSentry ensures that advertising campaigns are safe and relevant, Scouty allows..."
    
 
   
@@ -762,7 +766,9 @@
        "safari-fisso":"Safari sur les appareils fixes",
        "safari-mobile":"Safari sur les appareils mobiles",
        "cookie-policy-p11":"Pour procéder à la désactivation des cookies de Google Analytics, vous pouvez installer le module complémentaire téléchargeable en cliquant sur le lien ci-dessous :",
-       "cookie-policy-p12":"lien de l’add-on Désactivation des cookies Google Analytics"
+       "cookie-policy-p12":"lien de l’add-on Désactivation des cookies Google Analytics",
+       "romina-home-news-title":"Adextra Italia mise sur AdSentry et Scouty pour un marketing digital plus sécurisé et personnalisé",
+      "romina-home-news-paragraph":"AdSentry garantit que les campagnes publicitaires sont sécurisées et pertinentes, Scouty permet..."
 
  
     },
@@ -1017,7 +1023,9 @@
        "safari-fisso":"Safari en dispositivos fijos",
        "safari-mobile":"Safari en dispositivos móviles",
        "cookie-policy-p11":"Para proceder a la desactivación de las cookies de Google Analytics, es posible instalar el complemento descargable haciendo clic en el siguiente enlace:",
-       "cookie-policy-p12":"enlace complemento desactivación cookies Google Analytics"
+       "cookie-policy-p12":"enlace complemento desactivación cookies Google Analytics",
+       "romina-home-news-title":"Adextra Italia apuesta por AdSentry y Scouty para un marketing digital más seguro y personalizado",
+      "romina-home-news-paragraph":"AdSentry garantiza que las campañas publicitarias sean seguras y relevantes, Scouty permite..."
        
     }
 }
