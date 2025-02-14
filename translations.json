@@ -252,7 +252,17 @@
       "cookie-policy-p12":"link componente aggiuntivo disattivazione cookies Google Analytics",
       "privacy-policy-contact-title1":"INFORMATIVA PRIVACY SITO INTERNET FORM “CONTATTACI” V.2.1 (ai sensi dell’art.13 del Regolamento UE n. 2016/679)",
       "romina-home-news-title":"Adextra Italia punta su AdSentry e Scouty per un marketing digitale più sicuro e personalizzato",
-      "romina-home-news-paragraph":"AdSentry garantisce che le campagne pubblicitarie siano safe e pertinenti, Scouty permette..."
+      "romina-home-news-paragraph":"AdSentry garantisce che le campagne pubblicitarie siano safe e pertinenti, Scouty permette...",
+      "privacy-rev-share":"Privacy Policy Revenue Sharing",
+      "privacy-policy-revshare-p1":"Con la presente, Adextra Italia s.r.l.s., in qualità di titolare del trattamento, informa che i dati personali saranno trattati per l’invio di comunicazioni promozionali, newsletter, materiale pubblicitario per mezzo di sistemi tradizionali di contatto, sistemi informatici ovvero per ricerche ed analisi di mercato, nel rispetto della normativa privacy e delle modalità di trattamento indicate nella presente informativa.",
+      "privacy-policy-revshare-trattamento-p1":"Si informa che i dati personali comuni (ad esempio, indirizzo e-mail, nome, cognome, salvo eventuali altri dati comuni presenti nei database di origine) sono stati acquisiti dal database di proprietà della società indicata nel footer presente in calce alla e-mail ricevuta e verranno trattati nei limiti e per l’invio di comunicazioni promozionali, newsletter, materiale pubblicitario, per mezzo di sistemi tradizionali di contatto e sistemi informatici automatizzati, ivi incluse comunicazioni commerciali o promozionali a mezzo e-mail o SMS, ovvero per ricerche ed analisi di mercato. La base giuridica del trattamento è il consenso, da lei espresso alla società fornitrice di database indicata nel footer in calce alla e-mail, a ricevere attività promozionali e a trasferire i Suoi dati personali a società terze per attività promozionali, newsletter e materiale pubblicitario.",
+      "privacy-policy-revshare-modalità-title":"4. MODALITA’ DI TRATTAMENTO",
+      "privacy-policy-revshare-comunicazione-title":"5. COMUNICAZIONE DEI DATI",
+      "privacy-policy-revshare-estero-title":"6. TRASFERIMENTO ALL’ESTERO",
+      "privacy-policy-revshare-conservazione-title":"7. TEMPI DI CONSERVAZIONE DEI DATI",
+      "privacy-policy-revshare-diritti-title":"8. DIRITTI DEGLI INTERESSATI",
+      "privacy-policy-revshare-esercizio-title":"9. MODALITÀ DI ESERCIZIO DEI DIRITTI",
+      "privacy-policy-revshare-modifiche-title":"10. MODIFICHE E AGGIORNAMENTI"
       
 
     },
@@ -475,6 +485,8 @@
         "cookie-policy":"Cookie Policy",
         "cookie-policy-title1":"Cookie Policy of the website www.adextraitalia.it in accordance with what is provided by EU Regulation n o 679/2016 (c.d. GDPR) below 'Regulation'.",
         "cookie-policy-p1":"This cookie policy is an integral part of the documentation on the protection of personal data together with the privacy policy whose link is given below for the site:",
+        "privacy-policy-revshare-trattamento-p1":"Please note that the common personal data (e.g., e-mail address, first name, surname, except for any other common data present in the source databases) have been acquired from the database owned by the company indicated in the footer at the bottom of themail received and will be processed within the limits and for sending promotional communications, newsletters, advertising material, by means of traditional contact systems and automated computer systems, including commercial or promotional communications by e-mailmail or SMS, for market research and analysis. The legal basis of the processing is the consent, expressed by you to the database provider company indicated in the footer at the bottom of the e-mail, to receive promotional activities and transfer your personal data to third parties for promotional activities, Newsletters and advertising material.",
+         "privacy-policy-revshare-modalità-title":"4. MODE OF TREATMENT",
 
       "cookie-policy-title2":"What are cookies",
        "cookie-policy-p2":"Cookies are text files that are placed in the directories used by the browsers used by users, storing data that is necessary to ensure an effective use of the website visited.",
@@ -510,7 +522,15 @@
       "cookie-policy-p11":"To disable the cookies of Google Analytics, you can install the downloadable add-on by clicking on the link below:",
       "cookie-policy-p12":"link add-on deactivation cookies Google Analytics",
       "romina-home-news-title":"Adextra Italia uses AdSentry and Scouty for more secure and personalised digital marketing",
-      "romina-home-news-paragraph":"AdSentry ensures that advertising campaigns are safe and relevant, Scouty allows..."
+      "romina-home-news-paragraph":"AdSentry ensures that advertising campaigns are safe and relevant, Scouty allows...",
+      "privacy-rev-share":"Privacy Policy Revenue Sharing",
+      "privacy-policy-revshare-p1":"Adextra Italia s.r.l.s., as the data controller, hereby informs that personal data will be processed for the sending of promotional communications, newsletters, advertising material by means of traditional contact systems, computer systems or for market research and analysis, in compliance with the privacy legislation and processing methods indicated in this information.",
+      "privacy-policy-revshare-comunicazione-title":"5. DATA COMMUNICATION",
+      "privacy-policy-revshare-estero-title":"6. TRANSFER OF DATA ABROAD",
+      "privacy-policy-revshare-conservazione-title":"7. DATA RETENTION TIMES",
+      "privacy-policy-revshare-diritti-title":"8. RIGHTS OF DATA SUBJECTS",
+      "privacy-policy-revshare-esercizio-title":"9. HOW TO EXERCISE RIGHTS",
+      "privacy-policy-revshare-modifiche-title":"10. CHANGES AND UPDATES"
    
 
   
@@ -768,7 +788,18 @@
        "cookie-policy-p11":"Pour procéder à la désactivation des cookies de Google Analytics, vous pouvez installer le module complémentaire téléchargeable en cliquant sur le lien ci-dessous :",
        "cookie-policy-p12":"lien de l’add-on Désactivation des cookies Google Analytics",
        "romina-home-news-title":"Adextra Italia mise sur AdSentry et Scouty pour un marketing digital plus sécurisé et personnalisé",
-      "romina-home-news-paragraph":"AdSentry garantit que les campagnes publicitaires sont sécurisées et pertinentes, Scouty permet..."
+      "romina-home-news-paragraph":"AdSentry garantit que les campagnes publicitaires sont sécurisées et pertinentes, Scouty permet...",
+      "privacy-rev-share":"Politique de confidentialité Revenue Sharing",
+      "privacy-policy-revshare-p1":"Par la présente, Adextra Italia s.r.l.s., en tant que responsable du traitement, informe que les données personnelles seront traitées pour l’envoi de communications promotionnelles, newsletters, matériel publicitaire au moyen de systèmes traditionnels de contact, systèmes informatiques ou pour des études et analyses de marché, dans le respect de la législation sur la protection des données et des modalités de traitement indiquées dans la présente note d’information.",
+      "privacy-policy-revshare-trattamento-p1":"Nous vous informons que les données personnelles communes (par exemple, adresse e-mail, nom, prénom, sauf autres données communes présentes dans les bases de données d’origine) ont été acquises à partir de la base de données appartenant à la société indiquée dans le pied de pageles e-mails reçus et seront traités dans les limites et pour l’envoi de communications promotionnelles, newsletters, matériel publicitaire, au moyen de systèmes traditionnels de contact et de systèmes informatiques automatisés, y compris les communications commerciales ou promotionnelles par e-maile-mail ou SMS, c’est-à-dire pour des études et analyses de marché. La base juridique du traitement est le consentement, exprimé par vous à la société fournisseur de base de données indiquée dans le pied de page en bas de l’e-mail, à recevoir des activités promotionnelles et à transférer vos données personnelles à des sociétés tierces pour des activités promotionnelles, Newsletter et matériel publicitaire.",
+       "privacy-policy-revshare-modalità-title":"4. MODE DE TRAITEMENT",
+        "privacy-policy-revshare-comunicazione-title":"5. COMMUNICATION DES DONNÉES",
+        "privacy-policy-revshare-estero-title":"6.  TRANSFERT DE DONNÉES À L’ÉTRANGER",
+      "privacy-policy-revshare-conservazione-title":"7. DURÉE DE CONSERVATION DES DONNÉES",
+      "privacy-policy-revshare-diritti-title":"8. DROITS DES PERSONNES CONCERNÉES",
+      "privacy-policy-revshare-esercizio-title":"9. MODALITÉS D’EXERCICE DES DROITS",
+      "privacy-policy-revshare-modifiche-title":"10. MODIFICATIONS ET MISES À JOUR"
+
 
  
     },
@@ -1013,7 +1044,7 @@
         "cookie-policy-list4-p1":"cookies analíticas no de primera parte (c.d. de tercera parte), no anonimizadas: se requiere el consentimiento del usuario;",
         "cookie-policy-list4-p2":"cookies analíticas no de primera parte (c.d. de tercera parte), anonimizadas: no es necesario el consentimiento del usuario;",
         "cookie-policy-list4-p3":"Cookies de perfilación: se requiere el consentimiento del usuario.",
-        "cookie-policy-p8-half1":"En vista de lo anterior, el sitio",
+        "cookie-policy-p8-half1":"En Dati di navigazioneista de lo anterior, el sitio",
         "cookie-policy-p8-half2":"utiliza los siguientes tipos de cookies:",
         "cookies-tecnici":"Cookies técnicas",
         "cookie-policy-p9":"A continuación se muestra la lista detallada de las cookies utilizadas por el sitio",
@@ -1025,7 +1056,17 @@
        "cookie-policy-p11":"Para proceder a la desactivación de las cookies de Google Analytics, es posible instalar el complemento descargable haciendo clic en el siguiente enlace:",
        "cookie-policy-p12":"enlace complemento desactivación cookies Google Analytics",
        "romina-home-news-title":"Adextra Italia apuesta por AdSentry y Scouty para un marketing digital más seguro y personalizado",
-      "romina-home-news-paragraph":"AdSentry garantiza que las campañas publicitarias sean seguras y relevantes, Scouty permite..."
-       
+      "romina-home-news-paragraph":"AdSentry garantiza que las campañas publicitarias sean seguras y relevantes, Scouty permite...",
+       "privacy-rev-share":"Política de privacidad Revenue Sharing",
+       "privacy-policy-revshare-p1":"Por la presente, Adextra Italia s.r.l.s., en calidad de titular del tratamiento, informa que los datos personales serán tratados para el envío de comunicaciones promocionales, boletines informativos, material publicitario mediante sistemas tradicionales de contacto, sistemas informáticos o para investigaciones y análisis de mercado, respetando la normativa sobre privacidad y las modalidades de tratamiento indicadas en esta nota informativa.",
+       "privacy-policy-revshare-trattamento-p1":"Se informa que los datos personales comunes (por ejemplo, dirección de correo electrónico, nombre, apellido, salvo otros datos comunes presentes en las bases de datos de origen) han sido adquiridos de la base de datos propiedad de la empresa indicada en el pie de páginacorreos electrónicos recibidos y serán tratados dentro de los límites y para el envío de comunicaciones promocionales, boletines, material publicitario, mediante sistemas tradicionales de contacto y sistemas informáticos automatizados, incluidas las comunicaciones comerciales o promocionales por medio deCorreo electrónico o SMS, es decir, para la investigación y análisis de mercado. La base jurídica del tratamiento es el consentimiento, expresado por usted a la empresa proveedora de bases de datos indicada en el pie de página al final del correo electrónico, para recibir actividades promocionales y transferir sus datos personales a empresas terceras para actividades promocionales, Boletines informativos y material publicitario.",
+        "privacy-policy-revshare-modalità-title":"4. MODO DE TRATAMIENTO",
+        "privacy-policy-revshare-comunicazione-title":"5. COMUNICACIÓN DE DATOSS",
+        "privacy-policy-revshare-estero-title":"6. TRANSFERENCIA DE DATOS AL EXTRANJERO",
+      "privacy-policy-revshare-conservazione-title":"7. TIEMPO DE CONSERVACIÓN DE LOS DATOS",
+      "privacy-policy-revshare-diritti-title":"8. DERECHOS DE LOS INTERESADOS",
+      "privacy-policy-revshare-esercizio-title":"9. CÓMO EJERCER LOS DERECHOS",
+      "privacy-policy-revshare-modifiche-title":"10. MODIFICACIONES Y ACTUALIZACIONES"
+
     }
 }
