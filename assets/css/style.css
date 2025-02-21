@@ -4423,7 +4423,161 @@ ul.onovo-footer-menu li {
 	Settings End
 ---*/
 /* bg color */
+/*---
+	17. Pricing
+---*/
+.onovo-pricing-item {
+  position: relative;
+  border: 1px solid #3E3E3E;
+}
 
+.onovo-pricing-item .pricing--badge {
+  padding: 0 20px;
+  position: absolute;
+  right: 10px;
+  top: -14px;
+  font-size: 13px;
+  font-weight: 700;
+  height: 29px;
+  line-height: 29px;
+  background: #000;
+}
+
+.onovo-pricing-item .title {
+  padding: 44px 66px;
+  position: relative;
+  min-height: 236px;
+}
+
+.onovo-pricing-item .name {
+  margin: 0 0 10px 0;
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 1;
+}
+
+.onovo-pricing-item .subname {
+  margin: 0 0 5px 0;
+  font-size: 14px;
+  font-weight: 500;
+  text-transform: uppercase;
+}
+
+.onovo-pricing-item .price {
+  font-size: 50px;
+  line-height: 1;
+  font-weight: 700;
+}
+
+.onovo-pricing-item .image {
+  padding: 0;
+  position: absolute;
+  top: -35px;
+  left: 68px;
+  width: 70px;
+  height: 70px;
+  border-radius: 100%;
+  -webkit-border-radius: 100%;
+  font-size: 30px;
+  background: #000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  line-height: 1;
+  z-index: 2;
+}
+
+.onovo-pricing-item .image img {
+  max-width: 100%;
+  width: 30px;
+  height: auto;
+}
+
+.onovo-pricing-item .desc {
+  margin: -6px;
+  padding: 50px 55px;
+  position: relative;
+  min-height: 386px;
+  background: #fff;
+  border: 1px solid #3E3E3E;
+}
+
+.onovo-pricing-item .pricing--overlay {
+  content: "";
+  position: absolute;
+  overflow: hidden;
+  left: 4px;
+  top: 4px;
+  right: 4px;
+  bottom: 4px;
+  border: 1px solid #3E3E3E;
+  pointer-events: none;
+
+
+}
+
+.onovo-pricing-item .list {
+  margin: 0 0 20px 0;
+}
+
+.onovo-pricing-item .list ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.onovo-pricing-item .list ul li {
+  position: relative;
+  margin: 0;
+  padding: 10px 0 10px 40px;
+  font-size: 16px;
+  border-top: 1px solid rgb(237, 237, 237);
+  transition: all 0.4s cubic-bezier(0.3, 0, 0.3, 1);
+  -webkit-transition: all 0.4s cubic-bezier(0.3, 0, 0.3, 1);
+}
+
+.onovo-pricing-item .list ul li:first-child {
+  border-top: none;
+}
+
+.onovo-pricing-item .list ul li > i {
+  margin-top: -10px;
+  content: "";
+  position: absolute;
+  left: 10px;
+  top: 50%;
+  font-size: 18px;
+ color: #f29d0a;
+  height: 20px;
+  line-height: 20px;
+}
+
+.onovo-pricing-item:hover .pricing--overlay::before {
+  transform: scale(1);
+  -webkit-transform: scale(1);
+  background: #3e556c;
+
+}
+
+.onovo-pricing-item:hover a.onovo-btn.btn--color,
+.onovo-pricing-item:hover .onovo-btn.btn--color {
+  color: #000;
+}
+
+.onovo-pricing-item:hover a.onovo-btn.btn--color::after,
+.onovo-pricing-item:hover .onovo-btn.btn--color::after {
+  
+  background-color: #f29d0a;
+  transform: scaleY(1);
+  -webkit-transform: scaleY(1);
+  transform-origin: top center;
+}
+
+.onovo-pricing-item:hover .list ul li {
+  color: #fff;
+  border-top-color: rgba(237, 237, 237, 0.22);
+}
 /* paragraphs */
 html,
 body {
